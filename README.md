@@ -1,2 +1,2 @@
-# destroytheworld
+# Destroytheworld
 ## This is a heading!
